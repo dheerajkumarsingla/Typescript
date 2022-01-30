@@ -1,0 +1,6 @@
+{
+    "compilerOptions": {
+        "outDir": "dist",
+        "sourceMap": true, // this helps generate the .map file, so that we have the mapping of typescirpt and js files which helps in debugging of typescript file.
+    }
+}
